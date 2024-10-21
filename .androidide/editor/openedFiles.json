@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/FileNest/build.gradle",
+      "selection": {
+        "end": {
+          "column": 41,
+          "index": 212,
+          "line": 3
+        },
+        "start": {
+          "column": 41,
+          "index": 212,
+          "line": 3
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/FileNest/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 56,
+          "index": 974,
+          "line": 45
+        },
+        "start": {
+          "column": 56,
+          "index": 974,
+          "line": 45
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/FileNest/build.gradle"
+}
